@@ -1,0 +1,7 @@
+C:\Users\aguss\source\repos\ConsoleCrudSOAP\ConsoleCrudSOAP\bin\Debug\ConsoleCrudSOAP.exe.config
+C:\Users\aguss\source\repos\ConsoleCrudSOAP\ConsoleCrudSOAP\bin\Debug\ConsoleCrudSOAP.exe
+C:\Users\aguss\source\repos\ConsoleCrudSOAP\ConsoleCrudSOAP\bin\Debug\ConsoleCrudSOAP.pdb
+C:\Users\aguss\source\repos\ConsoleCrudSOAP\ConsoleCrudSOAP\obj\Debug\ConsoleCrudSOAP.csproj.AssemblyReference.cache
+C:\Users\aguss\source\repos\ConsoleCrudSOAP\ConsoleCrudSOAP\obj\Debug\ConsoleCrudSOAP.csproj.CoreCompileInputs.cache
+C:\Users\aguss\source\repos\ConsoleCrudSOAP\ConsoleCrudSOAP\obj\Debug\ConsoleCrudSOAP.exe
+C:\Users\aguss\source\repos\ConsoleCrudSOAP\ConsoleCrudSOAP\obj\Debug\ConsoleCrudSOAP.pdb

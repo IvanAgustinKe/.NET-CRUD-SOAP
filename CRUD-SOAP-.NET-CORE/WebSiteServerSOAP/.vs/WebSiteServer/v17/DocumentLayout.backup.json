@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aguss\\source\\repos\\WebSiteServerSOAP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4BD2C1-9D3B-4417-B1BE-0AFC465D230E}|C:\\Users\\aguss\\source\\repos\\WebSiteServerSOAP\\WebSiteServer|c:\\users\\aguss\\source\\repos\\websiteserversoap\\websiteserver\\app_code\\webservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4BD2C1-9D3B-4417-B1BE-0AFC465D230E}|C:\\Users\\aguss\\source\\repos\\WebSiteServerSOAP\\WebSiteServer|solutionrelative:websiteserver\\app_code\\webservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4BD2C1-9D3B-4417-B1BE-0AFC465D230E}|C:\\Users\\aguss\\source\\repos\\WebSiteServerSOAP\\WebSiteServer|C:\\Users\\aguss\\source\\repos\\WebSiteServerSOAP\\websiteserver\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0E4BD2C1-9D3B-4417-B1BE-0AFC465D230E}|C:\\Users\\aguss\\source\\repos\\WebSiteServerSOAP\\WebSiteServer|solutionrelative:websiteserver\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\aguss\\source\\repos\\WebSiteServerSOAP\\WebSiteServer\\Web.config",
+              "RelativeDocumentMoniker": "WebSiteServer\\Web.config",
+              "ToolTip": "C:\\Users\\aguss\\source\\repos\\WebSiteServerSOAP\\WebSiteServer\\Web.config",
+              "RelativeToolTip": "WebSiteServer\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-12T15:37:04.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebService.cs",
+              "DocumentMoniker": "C:\\Users\\aguss\\source\\repos\\WebSiteServerSOAP\\WebSiteServer\\App_Code\\WebService.cs",
+              "RelativeDocumentMoniker": "WebSiteServer\\App_Code\\WebService.cs",
+              "ToolTip": "C:\\Users\\aguss\\source\\repos\\WebSiteServerSOAP\\WebSiteServer\\App_Code\\WebService.cs",
+              "RelativeToolTip": "WebSiteServer\\App_Code\\WebService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T15:29:48.015Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
